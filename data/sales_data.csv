@@ -1,0 +1,8 @@
+OrderID,CustomerID,Region,Product,Category,Sales,Date
+001,C001,South,Shampoo,Hair Care,25.00,2023-01-05
+002,C002,West,Lip Gloss,Makeup,18.00,2023-01-07
+003,C003,North,Eyeliner,Makeup,12.50,2023-02-15
+004,C004,East,Hair Oil,Hair Care,22.00,2023-02-22
+005,C005,South,Foundation,Makeup,30.00,2023-03-03
+
+
